@@ -51,7 +51,8 @@
 
 - ✅ 第 1 章 [什么是宝石：定义、分类与国标定名规则](chapters/01-gemology/01-what-is-gemstone.md)
 - ✅ 第 2 章 [晶体与结构：晶系、解理、断口、双晶](chapters/01-gemology/02-crystal-structure.md)
-- 🔜 第 3 章 光学 ①：折射率、全内反射与临界角（下一章）
+- ✅ 第 3 章 [光学 ①：折射率、全内反射与临界角](chapters/01-gemology/03-optics-refraction.md)
+- 🔜 第 4 章 光学 ②：双折射、色散、多色性、光泽（下一章）
 
 ## 从哪开始
 

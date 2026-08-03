@@ -42,7 +42,25 @@
 | *Ruby & Sapphire: A Gemologist's Guide* | Richard W. Hughes 等著 | 刚玉族（第 22、23 章） |
 | *Gems* | Robert Webster 著（多次修订），FGA 体系的经典参考书 | 综合参考 |
 
-## 四、怎么引用（写作约定）
+## 四、网络权威资料（本书查证时实际用到的）
+
+按 CLAUDE.md §1.1 的查证纪律，写作时**不凭记忆**，逐条查一手资料。
+这里登记实际用到的公开资料及其用途，**查阅日期以本页最后更新为准**。
+
+| 资料 | 用途 | 链接 |
+|------|------|------|
+| GIA *Gems & Gemology*，"Pleochroism in Faceted Gems: An Introduction"（Fall 2014） | 多色性的系统说明（第 4 章） | <https://www.gia.edu/gems-gemology/fall-2014-introduction-pleochroism-faceted-gems> |
+| GIA 4Cs 博客，"Ultrasonic Cleaners for Gems" | 超声波清洗禁忌清单（第 2 章）——**本书清单以此为基准** | <https://4cs.gia.edu/en-us/blog/gems-ultrasonic-cleaners/> |
+| IGS（International Gem Society）Learning Center | 光性、多色性、色散、光泽等基础概念的交叉验证 | <https://www.gemsociety.org> |
+| The Gemology Project（宝石学 wiki） | 光泽分类、常数交叉验证 | <http://gemologyproject.com> |
+| Lotus Gemology 资料库 | 刚玉族与内含物（第 22、23 章） | <https://lotusgemology.com> |
+
+> **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
+> IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
+> 遇到数值分歧时，本书采用**宝石学界通用值**并注明分歧（例：莫桑石的双折射率，
+> 见[常数表](constants.md)的说明）。
+
+## 五、怎么引用（写作约定）
 
 1. **正文**：写 `GB/T 16552` 这样的**纯编号**，并在本页表格里能查到；
 2. **数值**：给区间而非单点，并注明来源类型，例如
