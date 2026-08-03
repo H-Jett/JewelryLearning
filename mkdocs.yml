@@ -56,6 +56,7 @@ nav:
   - 第一部分 · 宝石学地基:
       - chapters/01-gemology/00-intro.md
       - 第 1 章 · 什么是宝石（定名规则）: chapters/01-gemology/01-what-is-gemstone.md
+      - 第 2 章 · 晶体与结构: chapters/01-gemology/02-crystal-structure.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -67,3 +68,4 @@ nav:
   - 术语表: glossary.md
   - 思考题参考答案:
       - 第 1 章: qa/01-what-is-gemstone-qa.md
+      - 第 2 章: qa/02-crystal-structure-qa.md
