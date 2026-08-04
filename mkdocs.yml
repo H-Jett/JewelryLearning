@@ -61,6 +61,7 @@ nav:
       - 第 4 章 · 光学②：双折射·色散·多色性: chapters/01-gemology/04-optics-birefringence.md
       - 第 5 章 · 颜色的成因: chapters/01-gemology/05-color-origin.md
       - 第 6 章 · 特殊光学效应: chapters/01-gemology/06-optical-phenomena.md
+      - 第 7 章 · 耐久性：硬度·韧性·稳定性: chapters/01-gemology/07-durability.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -77,3 +78,4 @@ nav:
       - 第 4 章: qa/04-optics-birefringence-qa.md
       - 第 5 章: qa/05-color-origin-qa.md
       - 第 6 章: qa/06-optical-phenomena-qa.md
+      - 第 7 章: qa/07-durability-qa.md

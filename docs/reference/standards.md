@@ -62,6 +62,10 @@
 | GIA *G&G* Lab Notes「Glass Imitation of Cat's-Eye Chrysoberyl」（Summer 2023） | 玻璃仿猫眼金绿宝石实例（第 6 章） | <https://www.gia.edu/gems-gemology/summer-2023-lab-notes-glass-imitation-cats-eye-chrysoberyl> |
 | 澳大利亚博物馆 · 欧泊页；IGS「Assembled Stones」 | 欧泊球体结构与变彩；二层石/三层石识别（第 6 章） | <https://australian.museum/learn/minerals/gemstones/opal/> |
 | American Gem Society「Adularescence and Labradorescence」 | 长石两种效应的机制对比（第 6 章） | <https://www.americangemsociety.org/shimmer-and-shine-adularescence-and-labradorescence/> |
+| GIA 4Cs「More than the Mohs Scale: Understanding Gem Durability」 | 耐久性三要素定义；莫氏标尺非线性（第 7 章）——**本书三要素框架以此为基准** | <https://4cs.gia.edu/en-us/blog/more-than-mohs-scale-gem-durability/> |
+| GIA「Gemstone Durability: Design to Display」（PDF） | 耐久性与设计/镶嵌的关系（第 7、39 章） | <https://www.gia.edu/doc/Gemstone-Durability-Design-to-Display.pdf> |
+| IGS「Gemstone Hardness and Wearability」 | 灰尘中石英颗粒硬度 7~7.5 与日常磨损（第 7 章） | <https://www.gemsociety.org/article/hardness-and-wearability/> |
+| gemmology.dev「Gem Care and Durability」 | 稳定性风险（欧泊含水量与龟裂、珍珠珠层、充填物）（第 7 章） | <https://gemmology.dev/learn/care/gem-care-durability/> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
