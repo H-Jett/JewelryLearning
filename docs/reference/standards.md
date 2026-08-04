@@ -54,6 +54,9 @@
 | IGS（International Gem Society）Learning Center | 光性、多色性、色散、光泽等基础概念的交叉验证 | <https://www.gemsociety.org> |
 | The Gemology Project（宝石学 wiki） | 光泽分类、常数交叉验证 | <http://gemologyproject.com> |
 | Lotus Gemology 资料库 | 刚玉族与内含物（第 22、23 章） | <https://lotusgemology.com> |
+| Causes of Color（Webexhibits）与 Gemology Project「Causes of color」 | 致色机制：晶体场 / 电荷转移 / 色心 / 带隙（第 5 章） | <https://www.webexhibits.org/causesofcolor/> |
+| 紫水晶热处理与致色研究（PMC 收录的同行评议论文） | 紫水晶加热三阶段温度（约 420 °C / 440 °C）与 Fe³⁺-O²⁻ 电荷转移带（第 5 章） | <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483767/> |
+| 史密森尼国家自然历史博物馆 · 紫锂辉石说明 | 紫锂辉石光敏性与「晚宴石」称法（第 5 章） | <https://naturalhistory.si.edu> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
