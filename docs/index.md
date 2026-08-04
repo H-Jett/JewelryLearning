@@ -54,7 +54,8 @@
 - ✅ 第 3 章 [光学 ①：折射率、全内反射与临界角](chapters/01-gemology/03-optics-refraction.md)
 - ✅ 第 4 章 [光学 ②：双折射、色散与多色性](chapters/01-gemology/04-optics-birefringence.md)
 - ✅ 第 5 章 [颜色的成因：自色、他色与色心](chapters/01-gemology/05-color-origin.md)
-- 🔜 第 6 章 特殊光学效应：星光、猫眼、变彩、晕彩、变色（下一章）
+- ✅ 第 6 章 [特殊光学效应：星光、猫眼、变彩、晕彩、变色](chapters/01-gemology/06-optical-phenomena.md)
+- 🔜 第 7 章 耐久性：硬度、韧性、稳定性（下一章）
 
 ## 从哪开始
 

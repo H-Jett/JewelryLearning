@@ -57,6 +57,11 @@
 | Causes of Color（Webexhibits）与 Gemology Project「Causes of color」 | 致色机制：晶体场 / 电荷转移 / 色心 / 带隙（第 5 章） | <https://www.webexhibits.org/causesofcolor/> |
 | 紫水晶热处理与致色研究（PMC 收录的同行评议论文） | 紫水晶加热三阶段温度（约 420 °C / 440 °C）与 Fe³⁺-O²⁻ 电荷转移带（第 5 章） | <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483767/> |
 | 史密森尼国家自然历史博物馆 · 紫锂辉石说明 | 紫锂辉石光敏性与「晚宴石」称法（第 5 章） | <https://naturalhistory.si.edu> |
+| *Scientific Reports*（2020）"Explanation of the Colour Change in Alexandrites" | 变石效应需以 von Kries 色恒常模型解释（第 6 章）——同行评议 | <https://www.nature.com/articles/s41598-020-62707-3> |
+| GIA *G&G*「Dual-Color Double Stars in Ruby, Sapphire, and Quartz」（Summer 2015） | 刚玉与石英中的特殊星光现象（第 6 章） | <https://www.gia.edu/gems-gemology/summer-2015-dual-color-double-stars-ruby-sapphire-quartz> |
+| GIA *G&G* Lab Notes「Glass Imitation of Cat's-Eye Chrysoberyl」（Summer 2023） | 玻璃仿猫眼金绿宝石实例（第 6 章） | <https://www.gia.edu/gems-gemology/summer-2023-lab-notes-glass-imitation-cats-eye-chrysoberyl> |
+| 澳大利亚博物馆 · 欧泊页；IGS「Assembled Stones」 | 欧泊球体结构与变彩；二层石/三层石识别（第 6 章） | <https://australian.museum/learn/minerals/gemstones/opal/> |
+| American Gem Society「Adularescence and Labradorescence」 | 长石两种效应的机制对比（第 6 章） | <https://www.americangemsociety.org/shimmer-and-shine-adularescence-and-labradorescence/> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
