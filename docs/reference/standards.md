@@ -66,6 +66,13 @@
 | GIA「Gemstone Durability: Design to Display」（PDF） | 耐久性与设计/镶嵌的关系（第 7、39 章） | <https://www.gia.edu/doc/Gemstone-Durability-Design-to-Display.pdf> |
 | IGS「Gemstone Hardness and Wearability」 | 灰尘中石英颗粒硬度 7~7.5 与日常磨损（第 7 章） | <https://www.gemsociety.org/article/hardness-and-wearability/> |
 | gemmology.dev「Gem Care and Durability」 | 稳定性风险（欧泊含水量与龟裂、珍珠珠层、充填物）（第 7 章） | <https://gemmology.dev/learn/care/gem-care-durability/> |
+| GIA *G&G*「A Review of Analytical Methods Used in Geographic Origin Determination」（Winter 2019） | 产地判定方法综述与局限（第 8 章） | <https://www.gia.edu/gems-gemology/winter-2019-analytical-methods-geographic-origin-determination-gemstones> |
+| GIA *G&G*「Geographic Origin Determination of Blue Sapphire」（Winter 2019） | 选择性作图（以钒为第三维）、重叠与 inconclusive（第 8 章） | <https://www.gia.edu/gems-gemology/winter-2019-blue-sapphire-geographic-origin-determination> |
+| GIA *G&G*「Geology of Corundum and Emerald Gem Deposits」（Winter 2019） | 成因类型；祖母绿 Type I/II 分类与赞比亚金云母反应带（第 8 章） | <https://www.gia.edu/gems-gemology/winter-2019-geology-of-corundum-and-emerald-gem-deposits> |
+| GIA *G&G*「Chemical Analysis in the Gemological Laboratory: XRF and LA-ICP-MS」（Winter 2024） | LA-ICP-MS 参数与各品种可判定程度；铍扩散检测（第 8、9、10 章） | <https://www.gia.edu/gems-gemology/winter-2024-chemical-analysis> |
+| SSEF「Challenges of Origin Determination」（Krzemnicki，PDF） | 产地判定的挑战与实验室分歧（第 8 章） | <https://www.ssef.ch/wp-content/uploads/2018/03/2007_ICA_challenges_of_origin_determination.pdf> |
+| Gübelin Gem Lab「A holistic method to determining gem origin」 | 整体论方法；克什米尔的韭闪石包裹体判据（第 8 章） | <https://gubelingemlab.com/reference-collection/a-holistic-method-to-determining-gem-origin/> |
+| Sotheby's「Kashmir Sapphires: A Detailed Guide」 | 克什米尔矿床历史（1880 年代短暂开采）与拍卖价位（第 8 章） | <https://www.sothebys.com/en/articles/kashmir-sapphires-a-detailed-guide-for-collectors-and-enthusiasts> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。

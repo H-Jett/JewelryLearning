@@ -56,7 +56,8 @@
 - ✅ 第 5 章 [颜色的成因：自色、他色与色心](chapters/01-gemology/05-color-origin.md)
 - ✅ 第 6 章 [特殊光学效应：星光、猫眼、变彩、晕彩、变色](chapters/01-gemology/06-optical-phenomena.md)
 - ✅ 第 7 章 [耐久性：硬度、韧性与稳定性](chapters/01-gemology/07-durability.md)
-- 🔜 第 8 章 成因与产地（下一章）
+- ✅ 第 8 章 [成因与产地](chapters/01-gemology/08-origin.md)
+- 🔜 第 9 章 鉴定工具与流程（下一章）
 
 ## 从哪开始
 
