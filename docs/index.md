@@ -58,7 +58,8 @@
 - ✅ 第 7 章 [耐久性：硬度、韧性与稳定性](chapters/01-gemology/07-durability.md)
 - ✅ 第 8 章 [成因与产地](chapters/01-gemology/08-origin.md)
 - ✅ 第 9 章 [鉴定工具与流程](chapters/01-gemology/09-instruments.md)
-- 🔜 第 10 章 优化、处理与合成（下一章）
+- ✅ 第 10 章 [优化、处理与合成](chapters/01-gemology/10-treatment-synthetic.md)
+- 🔜 第 11 章 证书体系（下一章）
 
 ## 从哪开始
 

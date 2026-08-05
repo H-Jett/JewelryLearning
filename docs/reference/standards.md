@@ -78,6 +78,12 @@
 | GIA *G&G*「Application of UV-Vis-NIR Spectroscopy to Gemology」（Winter 2024） | UV-Vis-NIR 的用途与解释难点（第 9 章） | <https://www.gia.edu/gems-gemology/winter-2024-uv-vis-nir-spectroscopy> |
 | IGS「Color Filters: Uses and Limitations」与 gemmology.dev「Chelsea Colour Filter」 | 查尔斯滤色镜的机制、假阳性/假阴性与正确定位（第 9 章） | <https://www.gemsociety.org/article/color-filters/> |
 | IGS「Dichroscope Guide」与 Gemology Project「Polariscope」 | 二色镜与偏光镜的能力与局限（第 9 章） | <https://www.gemsociety.org/article/the-dichroscope/> |
+| GIA *G&G*「Identification of Bleached and Polymer-Impregnated Jadeite」（Fall 1992, Fritsch et al.） | 翡翠 B 货：FTIR 为唯一结论性方法；2800~3100 cm⁻¹ 的 C-H 峰（第 10、31 章）——**本书翡翠判据以此为基准** | <https://www.gia.edu/gems-gemology/fall-1992-bleaching-jadeite-fritsch> |
+| GIA *G&G* Lab Notes「Beryllium-Diffused and Lead Glass-Filled Orange Sapphire」（Summer 2015） | 闪光效应的明域/暗域颜色；同一石头兼有 Be 与 Pb 的实例（第 10 章） | <https://www.gia.edu/gems-gemology/summer-2015-labnotes-beryllium-diffused-orange-sapphire> |
+| Gem-A「Common Corundum Treatments」 | 刚玉五类处理：热处理温度区间、盘状裂隙、扩散、铅玻璃充填工艺（第 10、22、23 章） | <https://gem-a.com/gem-hub/common-corundum-treatments/> |
+| GIA *G&G*「Observations on CVD-Grown Synthetic Diamonds: A Review」（Fall 2016） | CVD 的带状应变、SiV 双峰 736.5/736.9 nm、生长层（第 10、18 章） | <https://www.gia.edu/gems-gemology/fall-2016-observations-cvd-grown-synthetic-diamonds-review> |
+| GIA「HPHT and CVD Diamond Growth Processes」 | 两种培育钻石工艺与识别差异（第 10、18 章） | <https://www.gia.edu/hpht-and-cvd-diamond-growth-processes> |
+| SSEF「Jadeite: impregnated and dyed」 | B 货与 B+C 货的商业价值差异（第 10、31 章） | <https://www.ssef.ch/jadeite-impregnated-and-dyed/> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
