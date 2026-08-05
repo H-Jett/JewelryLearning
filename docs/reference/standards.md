@@ -73,6 +73,11 @@
 | SSEF「Challenges of Origin Determination」（Krzemnicki，PDF） | 产地判定的挑战与实验室分歧（第 8 章） | <https://www.ssef.ch/wp-content/uploads/2018/03/2007_ICA_challenges_of_origin_determination.pdf> |
 | Gübelin Gem Lab「A holistic method to determining gem origin」 | 整体论方法；克什米尔的韭闪石包裹体判据（第 8 章） | <https://gubelingemlab.com/reference-collection/a-holistic-method-to-determining-gem-origin/> |
 | Sotheby's「Kashmir Sapphires: A Detailed Guide」 | 克什米尔矿床历史（1880 年代短暂开采）与拍卖价位（第 8 章） | <https://www.sothebys.com/en/articles/kashmir-sapphires-a-detailed-guide-for-collectors-and-enthusiasts> |
+| GIA *G&G*「Analysis of Gemstones at GIA Laboratories」（Winter 2024） | 实验室仪器分工与流程；光谱仪补充而非取代经典宝石学（第 9 章） | <https://www.gia.edu/gems-gemology/winter-2024-gemstone-analysis> |
+| GIA *G&G*「Raman Spectroscopy and X-Ray Diffraction」（Winter 2024） | 拉曼与 XRD 的物相鉴定；包裹体识别（第 9 章） | <https://www.gia.edu/gems-gemology/winter-2024-raman-spectroscopy-and-xrd> |
+| GIA *G&G*「Application of UV-Vis-NIR Spectroscopy to Gemology」（Winter 2024） | UV-Vis-NIR 的用途与解释难点（第 9 章） | <https://www.gia.edu/gems-gemology/winter-2024-uv-vis-nir-spectroscopy> |
+| IGS「Color Filters: Uses and Limitations」与 gemmology.dev「Chelsea Colour Filter」 | 查尔斯滤色镜的机制、假阳性/假阴性与正确定位（第 9 章） | <https://www.gemsociety.org/article/color-filters/> |
+| IGS「Dichroscope Guide」与 Gemology Project「Polariscope」 | 二色镜与偏光镜的能力与局限（第 9 章） | <https://www.gemsociety.org/article/the-dichroscope/> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
