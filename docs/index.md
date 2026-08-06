@@ -59,7 +59,8 @@
 - ✅ 第 8 章 [成因与产地](chapters/01-gemology/08-origin.md)
 - ✅ 第 9 章 [鉴定工具与流程](chapters/01-gemology/09-instruments.md)
 - ✅ 第 10 章 [优化、处理与合成](chapters/01-gemology/10-treatment-synthetic.md)
-- 🔜 第 11 章 证书体系（下一章）
+- ✅ 第 11 章 [证书体系](chapters/01-gemology/11-certificates.md)
+- 🔜 P1 项目：给自己的一件首饰做尽职调查（下一站）
 
 ## 从哪开始
 

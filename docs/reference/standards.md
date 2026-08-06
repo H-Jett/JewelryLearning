@@ -84,6 +84,10 @@
 | GIA *G&G*「Observations on CVD-Grown Synthetic Diamonds: A Review」（Fall 2016） | CVD 的带状应变、SiV 双峰 736.5/736.9 nm、生长层（第 10、18 章） | <https://www.gia.edu/gems-gemology/fall-2016-observations-cvd-grown-synthetic-diamonds-review> |
 | GIA「HPHT and CVD Diamond Growth Processes」 | 两种培育钻石工艺与识别差异（第 10、18 章） | <https://www.gia.edu/hpht-and-cvd-diamond-growth-processes> |
 | SSEF「Jadeite: impregnated and dyed」 | B 货与 B+C 货的商业价值差异（第 10、31 章） | <https://www.ssef.ch/jadeite-impregnated-and-dyed/> |
+| AGL「The Prestige Report」系列 | 彩宝品质分级体系：净度十档、颜色数值越低越好、TQIR（第 11 章） | <https://www.aglgemlab.com/the-prestige-report> |
+| GIA 4Cs「Diamond Grading Report vs Appraisal」 | 分级报告与估价的区别；Dossier 与完整报告的差异（第 11 章） | <https://4cs.gia.edu/en-us/blog/what-is-the-difference-between-a-diamond-grading-report-and-an-appraisal/> |
+| NGTC 官方网站（证书查询入口） | 中国证书核验：编号 + 防伪码；仅显示数据不显示样式；查询时间范围限制（第 11 章） | <https://www.ngtc.com.cn> |
+| 中国质量认证资质说明（CMA / CAL / CNAS 对比资料） | 三个标志的性质差异；CNAL 为 CNAS 的历史标志（第 11 章） | <https://zhuanlan.zhihu.com/p/73855797> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。

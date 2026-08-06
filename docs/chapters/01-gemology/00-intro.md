@@ -65,5 +65,5 @@ flowchart TD
 | 8 | [成因与产地](08-origin.md) | ✅ |
 | 9 | [鉴定工具与流程](09-instruments.md) | ✅ |
 | 10 | [优化、处理与合成](10-treatment-synthetic.md) | ✅ |
-| 11 | 证书体系 | ⬜ |
+| 11 | [证书体系](11-certificates.md) | ✅ |
 | P1 | 🛠 项目：给自己的一件首饰做尽职调查 | ⬜ |
