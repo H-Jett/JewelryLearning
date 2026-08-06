@@ -60,7 +60,9 @@
 - ✅ 第 9 章 [鉴定工具与流程](chapters/01-gemology/09-instruments.md)
 - ✅ 第 10 章 [优化、处理与合成](chapters/01-gemology/10-treatment-synthetic.md)
 - ✅ 第 11 章 [证书体系](chapters/01-gemology/11-certificates.md)
-- 🔜 P1 项目：给自己的一件首饰做尽职调查（下一站）
+- ✅ 🛠 [项目 P1：给自己的一件首饰做尽职调查](chapters/01-gemology/project-P1-due-diligence.md)
+
+**🎉 第一部分（宝石学地基）全部完成！** → [第一部分小结（速查）](chapters/01-gemology/summary.md)。**下一站：第二部分 · 钻石**
 
 ## 从哪开始
 

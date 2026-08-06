@@ -66,4 +66,5 @@ flowchart TD
 | 9 | [鉴定工具与流程](09-instruments.md) | ✅ |
 | 10 | [优化、处理与合成](10-treatment-synthetic.md) | ✅ |
 | 11 | [证书体系](11-certificates.md) | ✅ |
-| P1 | 🛠 项目：给自己的一件首饰做尽职调查 | ⬜ |
+| P1 | 🛠 [项目：给自己的一件首饰做尽职调查](project-P1-due-diligence.md) | ✅ |
+| — | 📋 [第一部分小结（速查）](summary.md) | ✅ |
